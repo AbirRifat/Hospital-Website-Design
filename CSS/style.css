@@ -88,7 +88,7 @@ input{
   height: 633px;
   background-position: center;
   background-size: cover;
-  background-image: URL(../img/firstPic.webp);
+  background-image: URL(./img/firstPic.webp);
 }
 .section1 .half1{
   width: 50%;
